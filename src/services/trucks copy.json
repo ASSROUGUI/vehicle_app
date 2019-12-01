@@ -1,0 +1,81 @@
+[    {
+    "id": 500,
+    "name": "old truck",
+    "fuelType": "Diesel",
+    "WheelsNo": 4,
+    "engineRPM":4,
+    "Torque":4,
+    "horsePower":99,
+    "Color":"white",
+    "seatsNo":4,
+    "Maker":"toyota",
+    "year": 2018,
+    "LoadWeight":66,
+    "imageUrl":""
+
+
+},
+{
+    "id": 501,
+    "name": "classic truck",
+    "fuelType": "Gas",
+    "WheelsNo": 4,
+    "engineRPM":4,
+    "Torque":4,
+    "horsePower":99,
+    "Color":"white",
+    "seatsNo":4,
+    "Maker":"toyota",
+    "year": 2017,
+    "LoadWeight":33,
+    "imageUrl": ""
+},
+{
+    "id": 505,
+    "name": "best truck",
+    "fuelType": "Petrol",
+    "WheelsNo": 4,
+    "engineRPM":4,
+    "Torque":4,
+    "horsePower":99,
+    "Color":"white",
+    "seatsNo":4,
+    "Maker":"toyota",
+    "year": 2014,
+    "imageUrl": "",
+    "LoadWeight":77
+
+},
+{
+    "id": 507,
+    "name": "fast truck",
+    "fuelType": "Diesel",
+    "WheelsNo": 4,
+    "engineRPM":4,
+    "Torque":4,
+    "horsePower":99,
+    "Color":"white",
+    "seatsNo":4,
+    "Maker":"toyota",
+    "year": 2019,
+    "imageUrl": "",
+    "LoadWeight":44
+
+},
+{
+    "id": 502,
+    "name": "truck",
+    "fuelType": "Electric",
+    "WheelsNo": 4,
+    "engineRPM":4,
+    "Torque":4,
+    "horsePower":99,
+    "Color":"white",
+    "seatsNo":4,
+    "Maker":"toyota",
+    "year": 2012,
+    "imageUrl": "",
+    "LoadWeight":11
+
+}
+]
